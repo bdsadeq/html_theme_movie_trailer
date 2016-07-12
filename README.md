@@ -1,4 +1,4 @@
-# Moview Trailer Theme HTML Template
+# Movie Trailer HTM5 Single Page Template
 ### Preview
 ![Loading ...](http://image.sadequr.com/github/movie_trailer_template.jpg)
 
