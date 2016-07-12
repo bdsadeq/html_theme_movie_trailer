@@ -32,6 +32,16 @@ Enbedded Code
 
 
 
+###Contact Us
+Just need to change email address in the file email.php.
+
+![Preview Loading ...](http://image.sadequr.com/github/html_theme_movie_trailer/contact.png)
+
+
+
+
+
+---
 ### Preview
 ![Preview Loading ...](http://image.sadequr.com/github/html_theme_movie_trailer/movie_trailer_template.jpg)
 
