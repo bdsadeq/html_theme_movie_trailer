@@ -6,6 +6,7 @@ Simple Bootstrap Menu
 ![Preview Loading ...](http://image.sadequr.com/github/html_theme_movie_trailer/menu.png)
 
 
+
 ###Sliders
 Carousel Slider
 
@@ -20,8 +21,21 @@ To use the Carousel Slider you have to include the following in your page:
 
 
 
+###Trailer
+Enbedded Code
+```php
+    /***************************************************
+                        Vimeo iFrame
+    ***************************************************/
+    <iframe src="http://player.vimeo.com/video/95995610" allowfullscreen></iframe>
+```
+
+
+
 ### Preview
 ![Preview Loading ...](http://image.sadequr.com/github/html_theme_movie_trailer/movie_trailer_template.jpg)
+
+
 
 ---
 ### Author
