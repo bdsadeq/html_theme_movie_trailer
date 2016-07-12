@@ -164,6 +164,27 @@ Change longitude and latitude
 
 
 
+###Credits
+Scripts:
+
+* jQuery plugin
+* Bootstrap
+* Google Map API
+* jQuery One Page Nav Plugin
+* jQuery Easing
+* jQuery CountTo
+* WOW
+* jQuery Nicescroll
+* jQuery Parallax
+* FitVids 1.1
+* jQuery Appear
+
+Icons:
+
+* Font-Awesome
+
+
+
 ---
 ### Preview
 ![Preview Loading ...](http://image.sadequr.com/github/html_theme_movie_trailer/movie_trailer_template.jpg)
