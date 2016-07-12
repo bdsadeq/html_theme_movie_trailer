@@ -1,6 +1,6 @@
 # Movie Trailer HTM5 Single Page Template
 ### Preview
-![Loading ...](http://image.sadequr.com/github/movie_trailer_template.jpg)
+![Preview Loading ...](http://image.sadequr.com/github/movie_trailer_template.jpg)
 
 ---
 ### Author
